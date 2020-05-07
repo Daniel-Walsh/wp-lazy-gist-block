@@ -1,0 +1,15 @@
+{
+  "name": "dw-lazy-gist-block",
+  "version": "1.0.0",
+  "description": "Lazy-loading Gist Block",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "Dan Walsh",
+  "license": "GPL-2.0-only",
+  "devDependencies": {
+    "@wordpress/scripts": "9.0.0"
+  }
+}
